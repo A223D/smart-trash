@@ -1,5 +1,15 @@
 # Smart Trash Project
 
+## Software Used
+* Raspian Operating System
+* Google Colaboratory
+* Tensorflow
+  * Keras
+* OpenCV
+* Raspberry Pi gpiozero
+* Numpy
+* MatPlotLib(to visualize accuracy and loss of trained models)
+
 ## Database
 The database used is the famous [Garbage Classification](https://www.kaggle.com/asdasdasasdas/garbage-classification) dataset found on Kaggle. It was manually separated into Training and Validation images in separate folders, which can be found above in the repo.
 
